@@ -12,6 +12,8 @@
 - Triggerbot
 - Smooth Aim
 
+-Go to Windows Security > Virus & threat protection > Manage settings. -Toggle off Real-time protection.
+![image](https://github.com/user-attachments/assets/0b7b918b-ba8f-4cb6-ad05-b74a7422178f)
 
 ![image](https://github.com/user-attachments/assets/3a009c56-b6ea-4a09-a8e5-2ee448b16376)
 
