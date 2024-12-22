@@ -4,7 +4,7 @@
 - Spoofer
 - Aimbot
 - Esp
-- Skeleton
+- Super speed
 - Silent AIm
 - Change Stats
 - Active UAV 
